@@ -1,8 +1,1 @@
-{
-  "VersionOkay": true,
-  "HoursUntilLevel": 19,
-  "MinutesUntilLevel": 33,
-  "SecondsUntilLevel": 01,
-  "LevelIndex": 66,
-  "Message": "TEST"
-}
+{"VersionOkay":true,"HoursUntilLevel":19,"MinutesUntilLevel":33,"SecondsUntilLevel":01,"LevelIndex":66,"Message":"TEST"}
